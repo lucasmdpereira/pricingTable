@@ -1,6 +1,6 @@
-<h2>Desafio "RocketShoes"</h2>
+<h2>Desafio "Pricing Table"</h2>
 
-![Group 1](https://user-images.githubusercontent.com/73071973/142681567-607a3217-d136-4536-977b-f46bc0e28ed8.png)
+![Group 1](https://user-images.githubusercontent.com/73071973/154478174-c5c0cd05-8392-4284-b499-92f7089cc367.jpg)
 
 <h3>🛠 Technologies</h3>
 <ul>
@@ -10,11 +10,11 @@
 
 <h3>🎨 Repositories</h3>
 <ul>
-  <li><a href="https://efficient-sloth-d85.notion.site/Desafio-Rocket-NFTs-3b5703b9f0e74cb19f34a8bfd14faacb">Desafio: Rocket NFTs</a></li>
+  <li><a href="https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32">Desafio: Pricing Table</a></li>
 </ul> 
 
 <h3>💻 Project</h3>
-<p>In this challenge I developed a pricing table.
+<p>In this <a href='https://www.rocketseat.com.br/'> Rocketseat </a> challenge I developed a pricing table.</p>
 
 <h3>🎓 Achievements</h3>
 <p>Use of advanced CSS selectors like ":first-child", ":nth-child()", ":not", pseudo elements and transition / transforme.<br>
